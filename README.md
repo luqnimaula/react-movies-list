@@ -1,0 +1,7 @@
+- run command `yarn` or `npm install`
+- after that, run `yarn start` to start development mode
+- this application will be run at `http://localhost:3000`
+- enter the keyword of the movie title that you want to search. for example like `avengers`
+- scroll down for infinite scroll
+- click the image to see full poster of the movie
+- click the title of movie to see details about it
